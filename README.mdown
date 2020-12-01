@@ -1,4 +1,4 @@
-#Esse código é apenas um exercício!
+# Esse código é apenas um exercício!
 
 Feito acompanhando uma aula do Bootcamp "Starter" da plataforma "Digital Innovation One"
 
